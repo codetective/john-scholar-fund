@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.30afefd6.chunk.css",
-    "main.js": "/static/js/main.ffb7a5c0.chunk.js",
-    "main.js.map": "/static/js/main.ffb7a5c0.chunk.js.map",
+    "main.css": "/static/css/main.6df89866.chunk.css",
+    "main.js": "/static/js/main.2fb31058.chunk.js",
+    "main.js.map": "/static/js/main.2fb31058.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f6a092ea.js",
     "runtime-main.js.map": "/static/js/runtime-main.f6a092ea.js.map",
     "static/css/2.4707e12a.chunk.css": "/static/css/2.4707e12a.chunk.css",
-    "static/js/2.ee89ae64.chunk.js": "/static/js/2.ee89ae64.chunk.js",
-    "static/js/2.ee89ae64.chunk.js.map": "/static/js/2.ee89ae64.chunk.js.map",
+    "static/js/2.61a622f0.chunk.js": "/static/js/2.61a622f0.chunk.js",
+    "static/js/2.61a622f0.chunk.js.map": "/static/js/2.61a622f0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b86be1455d44da4521c812e07f830564.js": "/precache-manifest.b86be1455d44da4521c812e07f830564.js",
+    "precache-manifest.b94ff52004fdd8bd18445e6b2a7ac657.js": "/precache-manifest.b94ff52004fdd8bd18445e6b2a7ac657.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.30afefd6.chunk.css.map": "/static/css/main.30afefd6.chunk.css.map",
-    "static/js/2.ee89ae64.chunk.js.LICENSE.txt": "/static/js/2.ee89ae64.chunk.js.LICENSE.txt",
+    "static/css/main.6df89866.chunk.css.map": "/static/css/main.6df89866.chunk.css.map",
+    "static/js/2.61a622f0.chunk.js.LICENSE.txt": "/static/js/2.61a622f0.chunk.js.LICENSE.txt",
     "static/media/baby.svg": "/static/media/baby.0f506a2c.svg",
     "static/media/coin.svg": "/static/media/coin.2f30e6aa.svg",
     "static/media/facebook.svg": "/static/media/facebook.407827a4.svg",
     "static/media/founder.jpeg": "/static/media/founder.4fcc5e1c.jpeg",
-    "static/media/logo.png": "/static/media/logo.0bc1a395.png",
+    "static/media/logo.png": "/static/media/logo.82e49ccd.png",
     "static/media/love.svg": "/static/media/love.f9971cef.svg",
     "static/media/mail.svg": "/static/media/mail.755cda46.svg",
     "static/media/old-telephone-ringing.svg": "/static/media/old-telephone-ringing.70f3a731.svg",
@@ -31,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.f6a092ea.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.ee89ae64.chunk.js",
-    "static/css/main.30afefd6.chunk.css",
-    "static/js/main.ffb7a5c0.chunk.js"
+    "static/js/2.61a622f0.chunk.js",
+    "static/css/main.6df89866.chunk.css",
+    "static/js/main.2fb31058.chunk.js"
   ]
 }
