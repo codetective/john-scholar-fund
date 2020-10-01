@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.61432e61.chunk.css",
-    "main.js": "/static/js/main.17f5d7c6.chunk.js",
-    "main.js.map": "/static/js/main.17f5d7c6.chunk.js.map",
+    "main.css": "/static/css/main.6c5a01d7.chunk.css",
+    "main.js": "/static/js/main.071bfb1d.chunk.js",
+    "main.js.map": "/static/js/main.071bfb1d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ffa6f8d7.js",
     "runtime-main.js.map": "/static/js/runtime-main.ffa6f8d7.js.map",
     "static/css/2.4707e12a.chunk.css": "/static/css/2.4707e12a.chunk.css",
-    "static/js/2.76392fe4.chunk.js": "/static/js/2.76392fe4.chunk.js",
-    "static/js/2.76392fe4.chunk.js.map": "/static/js/2.76392fe4.chunk.js.map",
+    "static/js/2.3ceda369.chunk.js": "/static/js/2.3ceda369.chunk.js",
+    "static/js/2.3ceda369.chunk.js.map": "/static/js/2.3ceda369.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3de54d9d77f73f9372be7e035ac198c7.js": "/precache-manifest.3de54d9d77f73f9372be7e035ac198c7.js",
+    "precache-manifest.2ae0f6a6ae4eb4a8fa47ddf3f06c7fc7.js": "/precache-manifest.2ae0f6a6ae4eb4a8fa47ddf3f06c7fc7.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.61432e61.chunk.css.map": "/static/css/main.61432e61.chunk.css.map",
-    "static/js/2.76392fe4.chunk.js.LICENSE.txt": "/static/js/2.76392fe4.chunk.js.LICENSE.txt",
-    "static/js/main.17f5d7c6.chunk.js.LICENSE.txt": "/static/js/main.17f5d7c6.chunk.js.LICENSE.txt",
+    "static/css/main.6c5a01d7.chunk.css.map": "/static/css/main.6c5a01d7.chunk.css.map",
+    "static/js/2.3ceda369.chunk.js.LICENSE.txt": "/static/js/2.3ceda369.chunk.js.LICENSE.txt",
+    "static/js/main.071bfb1d.chunk.js.LICENSE.txt": "/static/js/main.071bfb1d.chunk.js.LICENSE.txt",
     "static/media/baby.svg": "/static/media/baby.0f506a2c.svg",
     "static/media/coin.svg": "/static/media/coin.2f30e6aa.svg",
     "static/media/facebook.svg": "/static/media/facebook.407827a4.svg",
@@ -32,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.ffa6f8d7.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.76392fe4.chunk.js",
-    "static/css/main.61432e61.chunk.css",
-    "static/js/main.17f5d7c6.chunk.js"
+    "static/js/2.3ceda369.chunk.js",
+    "static/css/main.6c5a01d7.chunk.css",
+    "static/js/main.071bfb1d.chunk.js"
   ]
 }
