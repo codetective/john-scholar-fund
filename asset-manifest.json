@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c5a01d7.chunk.css",
-    "main.js": "/static/js/main.a3daa048.chunk.js",
-    "main.js.map": "/static/js/main.a3daa048.chunk.js.map",
+    "main.css": "/static/css/main.321a896f.chunk.css",
+    "main.js": "/static/js/main.68e0c2ad.chunk.js",
+    "main.js.map": "/static/js/main.68e0c2ad.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ffa6f8d7.js",
     "runtime-main.js.map": "/static/js/runtime-main.ffa6f8d7.js.map",
     "static/css/2.4707e12a.chunk.css": "/static/css/2.4707e12a.chunk.css",
-    "static/js/2.3ceda369.chunk.js": "/static/js/2.3ceda369.chunk.js",
-    "static/js/2.3ceda369.chunk.js.map": "/static/js/2.3ceda369.chunk.js.map",
+    "static/js/2.20437f96.chunk.js": "/static/js/2.20437f96.chunk.js",
+    "static/js/2.20437f96.chunk.js.map": "/static/js/2.20437f96.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a06c16d34a7203c029db3215ff4e8340.js": "/precache-manifest.a06c16d34a7203c029db3215ff4e8340.js",
+    "precache-manifest.572769cf07a7facf5bd5012b49d84ab5.js": "/precache-manifest.572769cf07a7facf5bd5012b49d84ab5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.6c5a01d7.chunk.css.map": "/static/css/main.6c5a01d7.chunk.css.map",
-    "static/js/2.3ceda369.chunk.js.LICENSE.txt": "/static/js/2.3ceda369.chunk.js.LICENSE.txt",
-    "static/js/main.a3daa048.chunk.js.LICENSE.txt": "/static/js/main.a3daa048.chunk.js.LICENSE.txt",
+    "static/css/main.321a896f.chunk.css.map": "/static/css/main.321a896f.chunk.css.map",
+    "static/js/2.20437f96.chunk.js.LICENSE.txt": "/static/js/2.20437f96.chunk.js.LICENSE.txt",
+    "static/js/main.68e0c2ad.chunk.js.LICENSE.txt": "/static/js/main.68e0c2ad.chunk.js.LICENSE.txt",
     "static/media/baby.svg": "/static/media/baby.0f506a2c.svg",
     "static/media/coin.svg": "/static/media/coin.2f30e6aa.svg",
     "static/media/facebook.svg": "/static/media/facebook.407827a4.svg",
@@ -23,6 +23,7 @@
     "static/media/logo.png": "/static/media/logo.82e49ccd.png",
     "static/media/love.svg": "/static/media/love.f9971cef.svg",
     "static/media/mail.svg": "/static/media/mail.755cda46.svg",
+    "static/media/news.jpeg": "/static/media/news.36d3cded.jpeg",
     "static/media/old-telephone-ringing.svg": "/static/media/old-telephone-ringing.70f3a731.svg",
     "static/media/p2.jpg": "/static/media/p2.f8b8826c.jpg",
     "static/media/pumoren2.jpeg": "/static/media/pumoren2.e4b360f8.jpeg",
@@ -32,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.ffa6f8d7.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.3ceda369.chunk.js",
-    "static/css/main.6c5a01d7.chunk.css",
-    "static/js/main.a3daa048.chunk.js"
+    "static/js/2.20437f96.chunk.js",
+    "static/css/main.321a896f.chunk.css",
+    "static/js/main.68e0c2ad.chunk.js"
   ]
 }
